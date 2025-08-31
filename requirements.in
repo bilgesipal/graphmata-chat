@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-openai
+langgraph
+openai
+redis
+azure-keyvault-secrets
+azure-identity
+python-dotenv
+google-cloud-secret-manager
+websocket-client
+websockets
+gunicorn
+langchain_core
